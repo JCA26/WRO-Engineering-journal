@@ -124,15 +124,15 @@ Vehicle power source:
 
 Sensors Used:
 
-•	2x LEGO Color Sensors (color guide)
+•	1x LEGO Color Sensors (color guide)
 
-•	2x LEGO Ultrasonic Sensor (edge detection)
+•	3x LEGO Ultrasonic Sensor (edge detection)
 
 Sensor Placement Strategy:
 
-•	Color sensors in the front facing forward and down 1 for front wall detection and 1 for ground color detection.
+•	Color sensors in the front facing forward and  front wall detection.
 
-•	Ultrasonic Sensors for side wall detection.
+•	Ultrasonic Sensors 1 on the front for spacial awarnes 2 on the sides to keep it centered in the track and 1 on the rear for the challenge round to detect the parking space.
 
 Challenges and Solutions
 
