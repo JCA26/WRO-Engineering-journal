@@ -11,7 +11,7 @@ Age Group
 16–17
 
 Vehicle Name
-CDC-05
+CDC-07
 
 Project Title
 Autonomous LEGO-Based Car for Lap Completion
@@ -126,11 +126,11 @@ Sensors Used:
 
 •	1x LEGO Color Sensors (color guide)
 
-•	3x LEGO Ultrasonic Sensor (edge detection)
+•	3-4x LEGO Ultrasonic Sensor (edge detection)
 
 Sensor Placement Strategy:
 
-•	Color sensors in the front facing forward and  front wall detection.
+•	Color sensors in the front facing forward for obstacle detection for the challenge round.
 
 •	Ultrasonic Sensors 1 on the front for spacial awarnes 2 on the sides to keep it centered in the track and 1 on the rear for the challenge round to detect the parking space.
 
@@ -140,13 +140,13 @@ Problem 1: Robot skidded out on sharp corners.
 
 Fix: Reduced speed at corners.
 
-Problem 2: Lap line detection would happen 50/50.
+Problem 2: Wall detection would happen 50/50.
 
-Fix: Adjusted color sensor position for better detection.
+Fix: Adjusted ultrasonic sensor position for better detection.
 
 Problem 3: Vehicle stability was poor and would un align easily.
 
-Fix: Added supports for wheels and front steering rack.
+Fix: Added support for wheels and front steering rack and larger wheels.
 
 Demo Video
 
