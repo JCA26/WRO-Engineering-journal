@@ -150,4 +150,4 @@ Fix: Added support for wheels and front steering rack and larger wheels.
 
 Demo Video
 
-[Watch the Test Run on YouTube](https://youtu.be/ZN7BdKQKQTI)
+[Watch the Test Run on YouTube](https://youtube.com/shorts/r7CwKgJuK_A)
